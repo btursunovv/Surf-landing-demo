@@ -1,0 +1,30 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "Gulp Configuration Bakhtiyar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BT",
+  "license": "ISC",
+  "devDependencies": {
+    "animate.css": "^4.1.1",
+    "browser-sync": "^2.27.9",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify-es": "^3.0.0",
+    "jquery": "^3.6.0",
+    "slick-carousel": "^1.8.1",
+    "wow.js": "^1.2.2"
+  },
+  "dependencies": {
+    "node-sass": "^7.0.1",
+    "sass": "^1.51.0"
+  }
+}
